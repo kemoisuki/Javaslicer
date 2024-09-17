@@ -6,7 +6,7 @@ TrySlice用于切割try-catch语句中，抛出的异常，处理异常的语句
 TestUR，RestTryU用于切割java源代码中，除开以上三种代码以及注释，剩下的语句以及不含标签的javadoc注释。
 RestTryU针对含有try-catch语句或者throw语句的，但是不含有return语句的java方法，切割出除开try-catch语句或者throw语句的剩下的代码，以及不含标签的javadoc注释。
 TestUR针对含有return语句的java方法，切割出除开try-catch语句或者throw语句或者返回值以及返回值相关语句的剩下的代码，以及不含标签的javadoc注释。
-![1](pictures\\图片1.png)
+![1](pictures//图片1.png)
 
 本部分代码逻辑说明可以在论文的第三章查看。
 
