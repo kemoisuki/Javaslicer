@@ -1,7 +1,7 @@
 **前言**  
 请先阅读 基于大语言模型的方法注释生成工具的设计与实现.pdf   
 由于github上传文件的大小限制，本仓库并未包含项目所有的文件，完整工程文件放在MEGA云盘链接中：https://mega.nz/folder/IHVA0aQI#Xs4EmZRVoNybAbVBgC_dEg  
-本项目由于个人能力所限，存在诸多不足之处
+本项目由于个人能力所限，存在诸多不足之处   
 **Javaslicer文件夹：**  
 用于切割java源代码片段的java代码，由于个人能力不足，本代码在实现的结果上效果并不完好，对于部分情景无法精确切割出代码片段    
 ExceptionSlice用于切割throw抛出的异常以及javadoc注释中@throw标签之后的注释部分  
